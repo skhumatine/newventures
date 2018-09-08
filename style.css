@@ -520,3 +520,10 @@ spotlightimg {
     width: 33.3333333%;
   }
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+}
